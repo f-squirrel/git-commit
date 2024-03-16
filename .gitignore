@@ -40,3 +40,5 @@ cmake-build-debug/
 
 # Compilation DB
 compile_commands.json
+
+/node_modules
